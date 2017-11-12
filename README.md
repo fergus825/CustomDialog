@@ -1,0 +1,2 @@
+# CustomDialog
+封装的多种常用的自定义dialog，在GitHub用户的jiangyy的项目上根据自己的使用习惯改编而来。首先感谢jiangyy的开源项目，如有不妥请与我联系。
